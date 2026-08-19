@@ -1,0 +1,12 @@
+# East West University - Course Registration System
+# -------------------------------------------------------------
+# Requirements & Dependencies
+#
+# NOTE: This application uses Python's standard library exclusively.
+# - sqlite3: Standard library (Database engine)
+# - tkinter: Standard library (Desktop GUI toolkit)
+# - ttk: Standard library (Themed Tkinter widgets)
+# - re, os, sys: Standard library
+#
+# No external pip packages are required!
+# Recommended Python Version: Python 3.8+
